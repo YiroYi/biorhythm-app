@@ -8,12 +8,17 @@
     "test": "react-scripts test"
   },
   "dependencies": {
+    "@capacitor/android": "2.3.0",
+    "@capacitor/core": "2.3.0",
     "@ionic/react": "^5.0.5",
+    "dayjs": "^1.8.29",
     "ionicons": "^5.0.1",
     "react": "^16.13.0",
-    "react-dom": "^16.13.0"
+    "react-dom": "^16.13.0",
+    "recharts": "^1.8.5"
   },
   "devDependencies": {
+    "@capacitor/cli": "2.3.0",
     "react-scripts": "3.4.1"
   },
   "eslintConfig": {
